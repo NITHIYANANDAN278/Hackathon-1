@@ -1,5 +1,5 @@
-Name : Rhudhresh
-Reg. No: 212223050039
+Name : NITHIYANANDAN N
+Reg. No: 212222230099
 
 Aim:
 To design and simulate a traffic light controller for an intersection of three main roads, where each road has equal priority. The controller should regulate the traffic flow efficiently, ensuring safety and smooth movement of vehicles while diverting the traffic to path 1 direction and disabling control in other directions.
@@ -28,25 +28,26 @@ State Table :
 •	The counter counts from 0 to 9, where each count corresponds to one clock cycle.
 Code: 
 
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/5b696e19-ec79-407c-a4f6-2474894e9355)
 
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/a7afabae-6fd4-42d5-ab22-46a651b35cf9)
-
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/0c7dec64-c053-4d4d-b0e6-11ee8b8372c7)
-
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/64f05004-b8f7-4e87-8cfb-23ad9ad1fb95)
-
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/b7523f53-7afa-4f8b-a824-da6c53e0e31f)
+![image](https://github.com/NITHIYANANDAN278/Hackathon-1/assets/121784636/17ead845-cabf-4ff4-b9f3-9890a63afc41)
 
 
+![image](https://github.com/NITHIYANANDAN278/Hackathon-1/assets/121784636/5ef5f68f-e7d4-4826-a374-331a8f864632)
 
+
+![image](https://github.com/NITHIYANANDAN278/Hackathon-1/assets/121784636/0b829041-3c95-49b5-bcc5-10b5d7854b19)
+
+
+
+![image](https://github.com/NITHIYANANDAN278/Hackathon-1/assets/121784636/aa853548-0400-4274-a8fc-65a8d1813cec)
 
 
 
 
 RTL Schematic View
 
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/1bc00223-ea16-4533-ac48-93f3e65db698)
+
+![image](https://github.com/NITHIYANANDAN278/Hackathon-1/assets/121784636/f43f7dd7-27ef-4626-ae16-56370464e420)
 
  
 
@@ -54,7 +55,9 @@ RTL Schematic View
 Output Waveforms
 
 
- ![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/c9e5cc3f-51ec-4cb0-abcc-1e334c8742d9)
+
+![image](https://github.com/NITHIYANANDAN278/Hackathon-1/assets/121784636/5c98b2ba-2069-41cf-b64f-39647f14b266)
+
 
 
 
